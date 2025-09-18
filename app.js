@@ -1,3 +1,3 @@
 console.log("Hello World");
-alert("Nice to meet you");
+alert("Welcome :)");
 console.log("Hello git ...");
